@@ -42,7 +42,7 @@ The objective is simple:
 
 ## 🚀 Practice Simulator
 
-###  👉 Start Here, Launch Now! 👈
+###                           👉 Start Here, Launch Now! 👈
 
 <p align="center">
   <a href="https://valenciafcarlos.github.io/AWS-CLF-C02-Practice-Simulator-by-ValenciaFCarlosDevOps/">
@@ -62,6 +62,7 @@ The objective is simple:
 - Domain Analytics
 - Learning Cycle
 
+🚀 Launch: https://valenciafcarlos.github.io/AWS-CLF-C02-Practice-Simulator-by-ValenciaFCarlosDevOps/
 ---
 
 
