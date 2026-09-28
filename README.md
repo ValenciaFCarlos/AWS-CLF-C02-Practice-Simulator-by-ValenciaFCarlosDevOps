@@ -42,9 +42,17 @@ The objective is simple:
 
 ## 🚀 Practice Simulator
 
-### 👉 Start Here
+###  👉 Start Here, Launch Now! 👈
 
-🔗 https://valenciafcarlos.github.io/AWS-CLF-C02-Practice-Simulator-by-ValenciaFCarlosDevOps/
+<p align="center">
+  <a href="https://valenciafcarlos.github.io/AWS-CLF-C02-Practice-Simulator-by-ValenciaFCarlosDevOps/">
+    <img src="https://img.shields.io/badge/Launch%20Simulator-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <strong>1,200+ Questions • English & Spanish • Practice Mode • Exam Mode</strong>
+</p>
 
 **Features:**
 - 1,200+ Questions
