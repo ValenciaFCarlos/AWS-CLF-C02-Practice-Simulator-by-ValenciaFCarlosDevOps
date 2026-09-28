@@ -41,9 +41,11 @@ The objective is simple:
 
 ## 🌐 Live Demo
 
+| 🚀 Practice Simulator | Interactive CLF-C02 simulator with 1,200+ bilingual questions |
+
 Launch Simulator:
 
-https://valenciafcarlos.github.io/AWS-CLF-C02-Practice-Simulator-by-ValenciaFCarlosDevOps/
+  https://valenciafcarlos.github.io/AWS-CLF-C02-Practice-Simulator-by-ValenciaFCarlosDevOps/
 
 ## ⚠️ Important Disclaimer
 
