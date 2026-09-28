@@ -28,13 +28,22 @@ The objective is simple:
 
 ---
 
+# 🚀 Interactive Practice Simulator
+
+<p align="center">
+  <img src="assets/clf-c02-simulator-preview.png" alt="AWS CLF-C02 Practice Simulator" width="100%">
+</p>
+
+<p align="center">
+  <strong>AWS Certified Cloud Practitioner (CLF-C02) Interactive Practice Simulator</strong><br>
+  Developed by <strong>ValenciaF. Carlos DevOps</strong>
+</p>
+
 ## 🌐 Live Demo
 
 Launch Simulator:
 
 https://valenciafcarlos.github.io/AWS-CLF-C02-Practice-Simulator-by-ValenciaFCarlosDevOps/
-
-
 
 ## ⚠️ Important Disclaimer
 
