@@ -39,7 +39,6 @@ The objective is simple:
   Developed by <strong>ValenciaF. Carlos DevOps</strong>
 </p>
 
-## 🌐 Live Demo
 
 ## 🚀 Practice Simulator
 
