@@ -41,11 +41,22 @@ The objective is simple:
 
 ## 🌐 Live Demo
 
-| 🚀 Practice Simulator | Interactive CLF-C02 simulator with 1,200+ bilingual questions |
+## 🚀 Practice Simulator
 
-Launch Simulator:
+### 👉 Start Here
 
-  https://valenciafcarlos.github.io/AWS-CLF-C02-Practice-Simulator-by-ValenciaFCarlosDevOps/
+🔗 https://valenciafcarlos.github.io/AWS-CLF-C02-Practice-Simulator-by-ValenciaFCarlosDevOps/
+
+**Features:**
+- 1,200+ Questions
+- English & Spanish
+- Practice Mode
+- Exam Mode
+- Domain Analytics
+- Learning Cycle
+
+---
+
 
 ## ⚠️ Important Disclaimer
 
